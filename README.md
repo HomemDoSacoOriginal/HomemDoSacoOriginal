@@ -1,4 +1,4 @@
-# Olá, eu sou o Giovanni Santana Dias 
+# Olá, eu sou o Giovani Santana Dias 
 
 **Técnico em Automação Industrial** · **Estudante de Engenharia da Computação (IFSP)**  
 São Paulo, Brasil · 💼 Aberto a oportunidades
