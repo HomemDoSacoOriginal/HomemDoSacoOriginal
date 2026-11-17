@@ -1,11 +1,11 @@
-# Olá, eu sou o Giovanni Santana Dias 👋
+# Olá, eu sou o Giovanni Santana Dias 
 
 **Técnico em Automação Industrial** · **Estudante de Engenharia da Computação (IFSP)**  
-📍 São Paulo, Brasil · 💼 Aberto a oportunidades
+São Paulo, Brasil · 💼 Aberto a oportunidades
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 Sou formado como **Técnico em Automação Industrial** pela ETEC Perus e atualmente curso **Engenharia da Computação** no IFSP Guarulhos.
 
@@ -55,7 +55,7 @@ Tenho um perfil bastante prático e gosto de unir **hardware, manutenção e sof
 
 ---
 
-## 📫 Vamos conversar?
+##  Vamos conversar?
 
 <p align="left">
   <a href="https://www.linkedin.com/in/giovani-santana-97998b2bb/" target="_blank">
