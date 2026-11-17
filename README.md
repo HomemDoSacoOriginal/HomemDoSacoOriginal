@@ -1,64 +1,90 @@
-# Olá, eu sou o Giovani Santana Dias 
+# Giovani Santana Dias
 
-**Técnico em Automação Industrial** · **Estudante de Engenharia da Computação (IFSP)**  
-São Paulo, Brasil · 💼 Aberto a oportunidades
+Técnico em Automação Industrial | Estudante de Engenharia da Computação (IFSP Guarulhos)
 
----
-
-##  Sobre mim
-
-Sou formado como **Técnico em Automação Industrial** pela ETEC Perus e atualmente curso **Engenharia da Computação** no IFSP Guarulhos.
-
-Tenho um perfil bastante prático e gosto de unir **hardware, manutenção e software**. Tenho forte vivência com **Arduino e programação em C** para automação e sensores, passei pelo desenvolvimento de jogos e modelagem 3D utilizando **C#, Unity e Blender**, além de possuir experiência prática com suporte técnico, diagnóstico e manutenção de computadores e equipamentos.
-
-- 🛠️ **Foco e interesses:** Automação, sistemas embarcados (Arduino), manutenção de hardware/sistemas e desenvolvimento
-- 🔭 **Estudando atualmente:** HTML, fundamentos de Java e conceitos de redes/sistemas na graduação
-- 🎯 **Objetivo:** Atuar na área técnica, de engenharia ou tecnologia, colocando a mão na massa para resolver problemas reais
-- 🌎 **Idiomas:** Português (Nativo) · Inglês (B2/C1) · Espanhol (Intermediário)
+São Paulo, Brasil | Aberto a oportunidades na área de Tecnologia da Informação
 
 ---
 
-## 💼 Experiência Profissional
+## Sobre mim
 
-- 🖥️ **Analista de Suporte Técnico (Atendimento Dell)**  
-  *Diagnóstico de falhas de hardware e software, orientação técnica, manutenção de sistemas e resolução de problemas junto ao usuário.*
+Sou técnico em Automação Industrial pela ETEC Perus e curso Engenharia da Computação no IFSP Guarulhos. Tenho um perfil prático e gosto de unir hardware, infraestrutura e software para resolver problemas reais.
 
----
+Possuo experiência com sistemas embarcados e automação, utilizando Arduino e ESP32 com programação em C, além de vivência em suporte técnico, diagnóstico e manutenção de computadores. Também tenho três anos de formação em programação e desenvolvimento de jogos, com C#, Unity e Blender, e já utilizei AutoCAD.
 
-## 🧰 Tecnologias e Ferramentas
+Sou proativo, organizado e muito ativo, com facilidade de aprendizado e de trabalho em equipe. Aprendo melhor colocando a mão na massa e tenho especial interesse em servidores, infraestrutura e computação em nuvem, áreas nas quais busco me aprofundar e atuar profissionalmente.
 
-- **Principais:** Arduino, C, C#, Unity, Blender, HTML
-- **Noções / Estudando:** Java, Redes e Sistemas
-- **Prática Técnica:** Instrumentação, Sensores, Manutenção e Diagnóstico de Hardware
+**Objetivo:** atuar em Tecnologia da Informação, com foco em desenvolvimento, backend e infraestrutura, aplicando e ampliando meus conhecimentos em projetos reais.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,c,cs,unity,blender,html,github&theme=dark" height="42" alt="Tecnologias" />
-</p>
+**Em estudo atualmente:** programação em C e desenvolvimento web com HTML na graduação, curso de Java na Alura, redes e sistemas.
+
+**Idiomas:** Português (nativo), Inglês (B2/C1), Espanhol (intermediário).
 
 ---
 
-## 🚀 Projetos em Destaque
+## Formação acadêmica
 
-| Projeto | Descrição | Tecnologias | Status |
-| :--- | :--- | :--- | :--- |
-| 🔥 **Sistema de Gás Residencial** | TCC do curso técnico focado em monitoramento, detecção de vazamentos e segurança residencial. | Arduino · C | ✅ Concluído |
-| 💡 **Medidor de Luminosidade** | Sistema prático de leitura e medição de intensidade luminosa com sensores. | Arduino · C | 🔨 Em andamento |
-| 🔧 **Novos Projetos** | Projetos práticos de engenharia, automação e desenvolvimento. | — | ⏳ Em breve |
+**Engenharia da Computação, IFSP Guarulhos (cursando)**
+
+Disciplinas e atividades em andamento:
+
+- Programação em linguagem C: lógica de programação e fundamentos de desenvolvimento de software.
+- Desenvolvimento web com HTML: construção de um site educacional.
+- Estudo complementar de redes e sistemas.
+
+**Técnico em Automação Industrial, ETEC Perus (concluído)**
+
+Formação voltada a automação, instrumentação, sensores e sistemas embarcados. Concluída com o desenvolvimento de um sistema automatizado de sensor de gás residencial como Trabalho de Conclusão de Curso.
+
+**Programação e Desenvolvimento de Jogos, três anos de curso (concluído)**
+
+Três anos de estudo contínuo em programação e criação de jogos, com C# e Unity para lógica e desenvolvimento, e Blender para modelagem 3D. Base sólida em lógica de programação, orientação a objetos e desenvolvimento de projetos completos.
+
+**Java, Alura (em andamento)**
+
+Curso online de fundamentos da linguagem Java.
 
 ---
 
-## 🎓 Formação
+## Experiência profissional
 
-- 🎓 **Engenharia da Computação** — IFSP Guarulhos *(Cursando)*
-- ⚙️ **Técnico em Automação Industrial** — ETEC Perus *(Concluído)*
-- 🎮 **Programação e Desenvolvimento de Jogos** — Curso de 2 a 3 anos *(C#, Unity e Blender)*
+**Analista de Suporte Técnico Júnior (atendimento Dell)**
+
+- Diagnóstico e reparo de computadores, com análise de falhas de hardware e software.
+- Orientação técnica ao usuário e resolução de incidentes técnicos.
+- Manutenção de sistemas e acompanhamento dos chamados até a solução.
 
 ---
 
-##  Vamos conversar?
+## Competências técnicas
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/giovani-santana-97998b2bb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+| Área | Tecnologias e conhecimentos |
+| :--- | :--- |
+| Linguagens | C, C#, Java (em estudo), HTML (em estudo) |
+| Sistemas embarcados e IoT | Arduino, ESP32, sensores, instrumentação, monitoramento remoto |
+| Desenvolvimento de jogos e modelagem | Unity, Blender, AutoCAD |
+| Suporte e infraestrutura | Diagnóstico e manutenção de hardware, análise de falhas, noções de redes e sistemas |
+
+---
+
+## Projetos
+
+**Sistema Automatizado de Sensor de Gás Residencial** (Trabalho de Conclusão de Curso)
+Sistema para detecção de vazamentos de gás em ambiente residencial, com foco em segurança. Utiliza ESP32 com alertas visuais e sonoros e monitoramento remoto.
+Tecnologias: ESP32, C. Status: concluído.
+
+**Medidor de Luminosidade**
+Sistema de leitura e medição da intensidade luminosa por meio de sensores.
+Tecnologias: Arduino, C. Status: em andamento.
+
+**Site educacional em HTML** (projeto acadêmico, IFSP Guarulhos)
+Construção de um site com finalidade educacional, desenvolvido na disciplina de desenvolvimento web.
+Tecnologias: HTML. Status: em andamento.
+
+Novos projetos de automação, engenharia e desenvolvimento estão em andamento e serão publicados neste perfil.
+
+---
+
+## Contato
+
+LinkedIn: [linkedin.com/in/giovani-santana-97998b2bb](https://www.linkedin.com/in/giovani-santana-97998b2bb/)
